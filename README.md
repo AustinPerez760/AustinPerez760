@@ -1,9 +1,6 @@
 ### Hi there 👋 im Austin
 
-<!--
-**AustinPerez760/AustinPerez760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Whats my deal?
 
 - 🌎 I’m currently working on becoming a full stack web developer through UCSD
 - 🌱 I’m currently learning all about front end and back end web development  
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about my goals and future projects
 - 📫 How to reach me: austin.perez760@gmail.com
 - 🏈 Fun fact: I am a walking sports encyclopedia
--->
